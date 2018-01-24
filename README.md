@@ -6,7 +6,7 @@
 # What?
 ### Remember the project from week one? You'll want to hit those same targets!
 
-#Requirements
+# Requirements
 ### X and O alternate
 ### Winner is Declared
 ### etc. etc.

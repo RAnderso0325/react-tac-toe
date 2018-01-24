@@ -22,6 +22,19 @@
   font-size: large;
 }
 
+.row {
+  display: block;
+}
+
+.box {
+  display: inline-block;
+  padding: 30px;
+  background-color: pink;
+  margin: 5px;
+  color: black;
+  font-size: 20px;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
